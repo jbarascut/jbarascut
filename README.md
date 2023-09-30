@@ -23,3 +23,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jbarascut&show_icons=true&locale=en" alt="jbarascut" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jbarascut&" alt="jbarascut" /></p>
+
+![Metrics](/github-metrics.svg)
+
+![Achivements](/metrics.plugin.achievements.svg)
+
+![FullYear](metrics.plugin.isocalendar.fullyear.svg)
