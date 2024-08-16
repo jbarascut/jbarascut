@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [devops-stack](https://devops-stack.io)
 
-- 🌱 I’m currently learning **Azure and CKA**
+- 🌱 I’m currently certified **Azure (AZ104,AZ305,AI900) and Kubernetes (CKAD,CKA)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
