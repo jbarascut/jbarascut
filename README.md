@@ -7,8 +7,12 @@
 
 - 🔭 I’m currently working on [devops-stack](https://devops-stack.io)
 
-- 🌱 I’m currently certified **Azure (AZ104,AZ305,AI900) and Kubernetes (CKAD,CKA)**
+- 🌱 I’m currently certified **Azure (AZ104,AZ305,AZ400,AI900) and Kubernetes (CKAD,CKA)**
 
+- 🎓 I'm learing security with TryHackMe
+
+  
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Gnupyx.png" alt="Your Image Badge" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jbarascut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jbarascut" height="30" width="40" /></a>
