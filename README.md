@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [devops-stack](https://devops-stack.io)
 
-- 🌱 I’m currently certified **Azure (AZ104,AZ305,AZ400,AI900) and Kubernetes (CKAD,CKA)**
+- 🌱 I’m currently certified **Azure (AZ104,AZ305,AZ400,AZ500, AI900) and Kubernetes (CKAD,CKA)**
 
 - 🎓 I'm learing security with TryHackMe
 
